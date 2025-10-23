@@ -4,12 +4,7 @@
 
 return [
   [
-'date' => '2025-10-21',
-    'date_display' => 'October, 2025',
-    'html' => 'Congratulations on Teng Fei who has successfully passed his Ph.D. prelim exam!'
-  ],
-  [
-'date' => '2020-08-01',
+    'date' => '2020-08-01',
     'date_display' => 'August, 2020',
     'html' => 'Congratulations to our team on receiving an NSF award "Collaborative Research: SWIFT: LARGE: MAC-on-MAC: A Spectrum Orchestrating Control Plane for Coexisting Wireless Systems." in collaboration with Dr. Xin Wang (Stony Brook), Dr. Janise McNair, and Dr. Soumyajit Mandal (University of Florida).'
   ],
