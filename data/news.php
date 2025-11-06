@@ -9,8 +9,43 @@ return [
     'html' => 'Congratulations on Teng Fei who has successfully passed his Ph.D. prelim exam!'
   ],
   [
-'date' => '2020-08-01',
-    'date_display' => 'August, 2020',
+'date' => '2024-04-06',
+    'date_display' => 'April, 2024',
+    'html' => 'Congratulations to Mengning Li for winning the first prize in the ECE 3-Minute Research Rally with her research on "Hybrid Zone: Bridging Acoustic and Wi-Fi for Enhanced Gesture Recognition"!'
+  ],
+    [
+'date' => '2024-04-01',
+    'date_display' => 'April, 2024',
+    'html' => 'Dr. Wang is going to attend first-ever NSF Spectrum Week (with link https://spectrumweek.org/) to be held in  Alexandria, Virginia, for our SWIFT project.
+'
+  ],
+  [
+'date' => '2023-05-28',
+    'date_display' => 'May, 2023',
+    'html' => 'Rui\'s paper " TOP: Total Occupancy Guided Prediction of Binary Spectrum Tenancy," will be presented in IEEE ICC, Rome! This is our first return to in-person presentation after pandemic.'
+  ],
+
+  [
+'date' => '2023-05-10',
+    'date_display' => 'May, 2023',
+    'html' => 'Congratulations on Rui Zou who has successfully passed his PhD defense on "Modeling, Prediction, and Multi-RAT Access of High Resolution Spectrum Based on Decoding Enabled Measurement. " Congratulations!'
+  ],   
+
+   [
+'date' => '2022-08-01',
+    'date_display' => 'August, 2022',
+    'html' => 'Welcome our newest member, Mengning LI, to the NetWiS Lab! We look forward to working with Mengning!
+'
+  ],
+  [
+'date' => '2022-05-01',
+    'date_display' => 'May, 2022',
+    'html' => 'Congratulations on Teng Fei\'s success on his qualification exam on May 27, 2022! Teng, good job!'
+  ],
+
+  [
+'date' => '2021-01-01',
+    'date_display' => 'January, 2021',
     'html' => 'Congratulations to our team on receiving an NSF award "Collaborative Research: SWIFT: LARGE: MAC-on-MAC: A Spectrum Orchestrating Control Plane for Coexisting Wireless Systems." in collaboration with Dr. Xin Wang (Stony Brook), Dr. Janise McNair, and Dr. Soumyajit Mandal (University of Florida).'
   ],
   [
