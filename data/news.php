@@ -4,6 +4,21 @@
 
 return [
   [
+'date' => '2026-05-01',
+    'date_display' => 'December, 2026',
+    'html' => 'Congratulations to Mengning Li on the Best Paper Award at IEEE INFOCOM 2026!'
+  ],
+  [
+'date' => '2025-12-09',
+    'date_display' => 'December, 2025',
+    'html' => 'Congratulations to LoyCurtis Smith on passing his Ph.D. qualifying exam!'
+  ],
+  [
+'date' => '2025-12-02',
+    'date_display' => 'December, 2025',
+    'html' => 'Congratulations to Mengning Li on passing her Ph.D. prelim exam!'
+  ],
+  [
 'date' => '2025-10-21',
     'date_display' => 'October, 2025',
     'html' => 'Congratulations on Teng Fei who has successfully passed his Ph.D. prelim exam!'

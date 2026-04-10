@@ -22,9 +22,9 @@
         </a>
         <ul class="sub-menu">
           <li><a href="<?= $BASE_URL ?>/research.php">Overview</a></li>
-          <li><a href="<?= $BASE_URL ?>/fundamental_properties.php">Fundamental Properties</a></li>
-          <li><a href="<?= $BASE_URL ?>/design_optimization.php">Design &amp; Optimization</a></li>
-          <li><a href="<?= $BASE_URL ?>/systems_applications.php">Systems &amp; Applications</a></li>
+          <li><a href="<?= $BASE_URL ?>/wireless_convergence_cps_applications.php">Wireless Convergence and CPS Applications</a></li>
+          <li><a href="<?= $BASE_URL ?>/spectrum_access_surveillance.php">Spectrum Access Surveillance</a></li>
+          <li><a href="<?= $BASE_URL ?>/mobility_induced_performance_modeling.php">Mobility Induced and Performance Modeling</a></li>
         </ul>
       </div>
 
@@ -118,10 +118,6 @@
 
     <a class="more-list" href="<?= $BASE_URL ?>/news.php">More news »</a>
 
-    <div class="calendar">
-      <h5 data-icon="" class="aside--title">Our Calendar</h5>
-      <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=5vo32v7mr1i2ovdsng1s1gc5rc%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FNew_York" style="border-width:0" scrolling="no" width="400" height="300" frameborder="0"></iframe>
-    </div>
   </div> <!-- end .aside--right -->
 </div> <!-- end .wrapper -->
 
