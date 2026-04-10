@@ -19,6 +19,57 @@
       <div class="download-table__column download-table__source">Source Code</div>
     </div>
 
+    <!-- SWAMP -->
+    <div class="download-table__row">
+      <div class="download-table__wrapper download-table__title-description">
+        <div class="download-table__column download-table__title">
+          SWAMP: A Subsurface Wireless Agricultural Monitoring Platform
+        </div>
+        <div class="download-table__column download-table__description">
+          <p>
+            We present SWAMP, a low-cost wireless platform for non-invasive subsurface 
+            agricultural sensing using commodity radio-frequency measurements. SWAMP combines 
+            repeatable wideband channel frequency response (CFR) sweeps for growth monitoring 
+            with standardized Long Term Evolution (LTE) link-quality indicators for underground 
+            localization and auxiliary condition sensing. A lightweight Transmission Control Protocol 
+            (TCP) coordination protocol enables repeatable stepped-frequency CFR acquisition without 
+            Global Positioning System-disciplined oscillators. On top of this measurement 
+            pipeline, SWAMP extracts four interpretable CFR features for growth-stage inference 
+            and fuses five LTE indicators through constrained optimization to recover tuber probability maps.
+          </p>
+          <a href="<?= $BASE_URL ?>u-ciman.php">Read more »</a>
+        </div>
+      </div>
+      <div class="download-table__column download-table__source">
+        <a class="download-icon" href="https://github.com/tfei3/PSI_SRS" target="_blank" rel="noopener">
+          <span class="entypo-down">↓</span><span class="box"></span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Hybrid Zone -->
+    <div class="download-table__row">
+      <div class="download-table__wrapper download-table__title-description">
+        <div class="download-table__column download-table__title">
+          Hybrid Zone: Bridging Acoustic and Wi-Fi for Enhanced Gesture Recognition
+        </div>
+        <div class="download-table__column download-table__description">
+          <p>
+            Traditional multi-modal fusion methods often lack theoretical models due to insufficient 
+            analysis of the foundational characteristics of different signals. In particular, we propose a 
+            concept, Hybrid Zone, which is a theoretical model illustrating the fusion of acoustic and Wi-Fi sensing. 
+            Hybrid zone offers a comprehensive perspective on the fusion of acoustic and Wi-Fi sensing areas.
+          </p>
+          <a href="<?= $BASE_URL ?>u-ciman.php">Read more »</a>
+        </div>
+      </div>
+      <div class="download-table__column download-table__source">
+        <a class="download-icon" href="https://github.com/mli55/hybrid-zone" target="_blank" rel="noopener">
+          <span class="entypo-down">↓</span><span class="box"></span>
+        </a>
+      </div>
+    </div>
+
     <!-- U-CIMAN -->
     <div class="download-table__row">
       <div class="download-table__wrapper download-table__title-description">
@@ -42,7 +93,7 @@
       </div>
     </div>
 
-    <!-- Mobility Model -->
+    <!-- Mobility Model
     <div class="download-table__row">
       <div class="download-table__wrapper download-table__title-description">
         <div class="download-table__column download-table__title">
@@ -60,9 +111,9 @@
       <div class="download-table__column download-table__source">
        
       </div>
-    </div>
+    </div> -->
 
-    <!-- STEP2 in WLANs -->
+    <!-- STEP2 in WLANs
     <div class="download-table__row">
       <div class="download-table__wrapper download-table__title-description">
         <div class="download-table__column download-table__title">
@@ -80,9 +131,9 @@
       <div class="download-table__column download-table__source">
         
       </div>
-    </div>
+    </div> -->
 
-    <!-- Sensor Networks -->
+    <!-- Sensor Networks
     <div class="download-table__row">
       <div class="download-table__wrapper download-table__title-description">
         <div class="download-table__column download-table__title">
@@ -100,10 +151,10 @@
       <div class="download-table__column download-table__source">
         
       </div>
-    </div>
+    </div> -->
 
     <!-- Multihop Networks -->
-    <div class="download-table__row">
+    <!-- <div class="download-table__row">
       <div class="download-table__wrapper download-table__title-description">
         <div class="download-table__column download-table__title">
           Multihop Networks
@@ -120,9 +171,9 @@
       <div class="download-table__column download-table__source">
        
       </div>
-    </div>
+    </div> -->
 
-    <!-- FREEDM (DESD with Zigbee) -->
+    <!-- FREEDM (DESD with Zigbee)
     <div class="download-table__row">
       <div class="download-table__wrapper download-table__title-description">
         <div class="download-table__column download-table__title">
@@ -139,7 +190,7 @@
       <div class="download-table__column download-table__source">
        
       </div>
-    </div>
+    </div> -->
 
   </div><!-- /.download-table -->
 </div><!-- /#download-overview -->

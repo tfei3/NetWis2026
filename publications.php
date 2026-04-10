@@ -62,7 +62,7 @@
     </div> <!-- end #year-publications -->
 
     <!-- Tab 4: By Areas -->
-    <div class="tab" id="area-publications">
+    <!-- <div class="tab" id="area-publications">
       <input class="tab-radio" type="radio" id="tab-4" name="tab-group-1">
       <label class="tab-label" for="tab-4">By Areas</label>
       <div class="tab-panel">
@@ -77,7 +77,7 @@
           <?php endif; ?>
         </div>
       </div>
-    </div> <!-- end #area-publications -->
+    </div> end #area-publications -->
 
   </div> <!-- end .tabs -->
 </div> <!-- end .publications -->
